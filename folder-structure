@@ -1,0 +1,36 @@
+Project
+│── comman
+│   │── custom_date_picker.dart
+│   │── custom_textfield.dart
+│   │── extensions.dart
+│   │── gradient_elevated_button.dart
+│
+│── core
+│   │── app
+│   │── local_storage
+│   │── router
+│
+│── features
+│   │── add_receipt
+│   │── auth
+│   │     │── controller
+│   │     │── models
+│   │     │── provider
+│   │     │── repo
+│   │     │── repository
+│   │     │── screens
+│   │── category
+│   │── home
+│   │     │── provider
+│   │     │── screens
+│   │     │── widgets
+│   │── profile
+│   │── settings
+│
+│── utils
+│   │── extensions.dart
+│   │── utils.dart
+│
+│── firebase_options.dart
+│── initial_screen.dart
+│── main.dart
